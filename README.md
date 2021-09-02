@@ -9,6 +9,9 @@ problem statement -
 
 LOGIC : 
 
+![image](https://user-images.githubusercontent.com/9101436/131792079-568911b5-77e5-4ee2-af3c-62759d405180.png)
+
+
 1 Set 
 X - 10
 
